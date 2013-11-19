@@ -33,7 +33,7 @@ class loggly ($token,
 
   rsyslog::snippet {'99-loggly':
     ensure  => $ensure,
-    content => template('loggly/baseconf.conf'),
+    content => template('loggly/baseconf.conf.erb'),
   }
 
 }
