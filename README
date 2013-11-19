@@ -1,0 +1,21 @@
+loggly
+
+This is the loggly module.
+
+Copyright Bashton Ltd 2013
+
+License
+-------
+
+Apache License 2.0
+
+Contact
+-------
+
+Sam Bashton <sam@bashton.com>
+
+
+Support
+-------
+
+Please log tickets and issues at https://github.com/BashtonLtd/puppet-loggly
